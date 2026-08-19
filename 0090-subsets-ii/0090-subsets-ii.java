@@ -8,6 +8,10 @@ class Solution {
             return;
         }
         for(int i=0;i<input.size();i++){
+            if(i>0 && input.get(i).equals(input.get(i - 1))){
+                continue;
+            }
+            
             List<Integer> ip = new ArrayList<>(input);
             List<Integer> op = new ArrayList<>(output);
             op.add(ip.get(i));
