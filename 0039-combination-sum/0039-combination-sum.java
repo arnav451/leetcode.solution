@@ -1,21 +1,40 @@
 class Solution {
-    void combsum(int [] nums,int idx,int target,List<Integer> curr,List<List<Integer>> ans){
-        if(idx==nums.length || target<0){
+
+    void combSum(List<Integer> input, List<Integer> output,
+                 int target, List<List<Integer>> ans) {
+
+        if (target == 0) {
+            ans.add(new ArrayList<>(output));
             return;
         }
-        if(target==0){
-            ans.add(new ArrayList <>(curr));
+        if (input.size() == 0 || target < 0) {
             return;
         }
-        curr.add(nums[idx]);
-        combsum(nums,idx,target-nums[idx],curr,ans);
-        curr.remove(curr.size()-1);
-        combsum(nums,idx +1,target,curr,ans);
+        int x = input.get(0);
+        output.add(x);
+
+        combSum(input, output, target - x, ans);
+
+        output.remove(output.size() - 1);
+
+        List<Integer> newInput = new ArrayList<>(input);
+        newInput.remove(0);
+
+        combSum(newInput, output, target, ans);
     }
+
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer> curr =new ArrayList<> ();
-        combsum(candidates,0,target,curr,ans);
+
+        List<Integer> input = new ArrayList<>();
+
+        for (int x : candidates) {
+            input.add(x);
+        }
+
+        List<Integer> output = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
+
+        combSum(input, output, target, ans);
         return ans;
     }
 }
