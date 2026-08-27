@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arnav451/leetcode.solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arnav451/leetcode.solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arnav451/leetcode.solution/tree/master/0047-permutations-ii) |
+| [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/arnav451/leetcode.solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnav451/leetcode.solution/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/arnav451/leetcode.solution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [1922-count-good-numbers](https://github.com/arnav451/leetcode.solution/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
