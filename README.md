@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arnav451/leetcode.solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arnav451/leetcode.solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arnav451/leetcode.solution/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/arnav451/leetcode.solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnav451/leetcode.solution/tree/master/0090-subsets-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/arnav451/leetcode.solution/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/0053-maximum-subarray) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
