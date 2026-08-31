@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arnav451/leetcode.solution/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arnav451/leetcode.solution/tree/master/0205-isomorphic-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arnav451/leetcode.solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/arnav451/leetcode.solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
+| [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/arnav451/leetcode.solution/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0151-reverse-words-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
