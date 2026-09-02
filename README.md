@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/arnav451/leetcode.solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnav451/leetcode.solution/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/arnav451/leetcode.solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/arnav451/leetcode.solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/arnav451/leetcode.solution/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/arnav451/leetcode.solution/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnav451/leetcode.solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/arnav451/leetcode.solution/tree/master/0796-rotate-string) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
