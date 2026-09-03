@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/arnav451/leetcode.solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
+| [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnav451/leetcode.solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/arnav451/leetcode.solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/arnav451/leetcode.solution/tree/master/0062-unique-paths) |
+| [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
 ## Bracket Sequences
 |  |
@@ -125,9 +127,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
