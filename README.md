@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/arnav451/leetcode.solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnav451/leetcode.solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/arnav451/leetcode.solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/arnav451/leetcode.solution/tree/master/1043-partition-array-for-maximum-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/arnav451/leetcode.solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnav451/leetcode.solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
