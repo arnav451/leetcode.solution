@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/arnav451/leetcode.solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/arnav451/leetcode.solution/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0796-rotate-string](https://github.com/arnav451/leetcode.solution/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/arnav451/leetcode.solution/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
+| [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnav451/leetcode.solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Math
