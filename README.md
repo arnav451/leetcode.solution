@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/arnav451/leetcode.solution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/arnav451/leetcode.solution/tree/master/0409-longest-palindrome) |
+| [0516-longest-palindromic-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/arnav451/leetcode.solution/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/arnav451/leetcode.solution/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/arnav451/leetcode.solution/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/arnav451/leetcode.solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/arnav451/leetcode.solution/tree/master/1043-partition-array-for-maximum-sum) |
