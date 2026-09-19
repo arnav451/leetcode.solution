@@ -7,7 +7,6 @@ class Solution {
         if(dp[i][curr]!=-1){
             return dp[i][curr];
         }
-        int take=1;
         int ans=0;
         for(int j=i+1;j<nums.length;j++){
             if(nums[i]==nums[j]){
@@ -15,7 +14,6 @@ class Solution {
             }else if(curr<k){
                 ans=Math.max(ans,fun(j,nums,k,curr+1));
             }
-           // take +=ans;
         }
          return dp[i][curr]=1+ans;
     }
