@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/arnav451/leetcode.solution/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/arnav451/leetcode.solution/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/1143-longest-common-subsequence) |
+| [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Dynamic Programming
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/arnav451/leetcode.solution/tree/master/0231-power-of-two) |
+| [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/arnav451/leetcode.solution/tree/master/1922-count-good-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnav451/leetcode.solution/tree/master/3875-construct-uniform-parity-array-i) |
