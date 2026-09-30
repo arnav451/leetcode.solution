@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/arnav451/leetcode.solution/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/arnav451/leetcode.solution/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/arnav451/leetcode.solution/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/arnav451/leetcode.solution/tree/master/0504-base-7) |
 | [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
