@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnav451/leetcode.solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0518-coin-change-ii](https://github.com/arnav451/leetcode.solution/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0983-minimum-cost-for-tickets](https://github.com/arnav451/leetcode.solution/tree/master/0983-minimum-cost-for-tickets) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/arnav451/leetcode.solution/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnav451/leetcode.solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnav451/leetcode.solution/tree/master/0771-jewels-and-stones) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav451/leetcode.solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
