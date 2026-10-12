@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/arnav451/leetcode.solution/tree/master/1043-partition-array-for-maximum-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav451/leetcode.solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arnav451/leetcode.solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/arnav451/leetcode.solution/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnav451/leetcode.solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -322,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/arnav451/leetcode.solution/tree/master/0561-array-partition) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/arnav451/leetcode.solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
