@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/arnav451/leetcode.solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnav451/leetcode.solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -306,11 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
 ## Quicksort
 |  |
 | ------- |
@@ -327,4 +330,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arnav451/leetcode.solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
