@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/arnav451/leetcode.solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/arnav451/leetcode.solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/arnav451/leetcode.solution/tree/master/0504-base-7) |
 | [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/arnav451/leetcode.solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/arnav451/leetcode.solution/tree/master/0495-teemo-attacking) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/arnav451/leetcode.solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
