@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/arnav451/leetcode.solution/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/arnav451/leetcode.solution/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0931-minimum-falling-path-sum](https://github.com/arnav451/leetcode.solution/tree/master/0931-minimum-falling-path-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnav451/leetcode.solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/arnav451/leetcode.solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/arnav451/leetcode.solution/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/arnav451/leetcode.solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/arnav451/leetcode.solution/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnav451/leetcode.solution/tree/master/0771-jewels-and-stones) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 ## Quicksort
 |  |
 | ------- |
