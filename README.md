@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/arnav451/leetcode.solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1035-uncrossed-lines](https://github.com/arnav451/leetcode.solution/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/arnav451/leetcode.solution/tree/master/1043-partition-array-for-maximum-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav451/leetcode.solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/arnav451/leetcode.solution/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
 |  |
 | ------- |
