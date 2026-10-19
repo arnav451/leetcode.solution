@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0931-minimum-falling-path-sum](https://github.com/arnav451/leetcode.solution/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/arnav451/leetcode.solution/tree/master/0983-minimum-cost-for-tickets) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/arnav451/leetcode.solution/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/arnav451/leetcode.solution/tree/master/1043-partition-array-for-maximum-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnav451/leetcode.solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Longest Common Subsequence
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/arnav451/leetcode.solution/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
 |  |
