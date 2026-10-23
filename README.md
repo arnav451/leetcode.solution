@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/arnav451/leetcode.solution/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/arnav451/leetcode.solution/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav451/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/arnav451/leetcode.solution/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/arnav451/leetcode.solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/arnav451/leetcode.solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/arnav451/leetcode.solution/tree/master/0504-base-7) |
+| [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
