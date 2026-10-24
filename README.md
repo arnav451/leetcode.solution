@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/1143-longest-common-subsequence) |
 | [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/arnav451/leetcode.solution/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/arnav451/leetcode.solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/arnav451/leetcode.solution/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/arnav451/leetcode.solution/tree/master/2409-count-days-spent-together) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnav451/leetcode.solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
