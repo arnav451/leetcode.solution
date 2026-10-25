@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav451/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/arnav451/leetcode.solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0904-fruit-into-baskets](https://github.com/arnav451/leetcode.solution/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/arnav451/leetcode.solution/tree/master/0931-minimum-falling-path-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnav451/leetcode.solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/arnav451/leetcode.solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Longest Common Subsequence
