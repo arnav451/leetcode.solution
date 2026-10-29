@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1035-uncrossed-lines](https://github.com/arnav451/leetcode.solution/tree/master/1035-uncrossed-lines) |
 | [1043-partition-array-for-maximum-sum](https://github.com/arnav451/leetcode.solution/tree/master/1043-partition-array-for-maximum-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav451/leetcode.solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/arnav451/leetcode.solution/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/arnav451/leetcode.solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arnav451/leetcode.solution/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav451/leetcode.solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/arnav451/leetcode.solution/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/arnav451/leetcode.solution/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/arnav451/leetcode.solution/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/arnav451/leetcode.solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
@@ -356,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/arnav451/leetcode.solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/arnav451/leetcode.solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnav451/leetcode.solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav451/leetcode.solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
