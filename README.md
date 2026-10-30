@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/arnav451/leetcode.solution/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/arnav451/leetcode.solution/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/arnav451/leetcode.solution/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/arnav451/leetcode.solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/arnav451/leetcode.solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/arnav451/leetcode.solution/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/arnav451/leetcode.solution/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/arnav451/leetcode.solution/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/arnav451/leetcode.solution/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/arnav451/leetcode.solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/arnav451/leetcode.solution/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/arnav451/leetcode.solution/tree/master/0646-maximum-length-of-pair-chain) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/arnav451/leetcode.solution/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/arnav451/leetcode.solution/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/arnav451/leetcode.solution/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/arnav451/leetcode.solution/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/arnav451/leetcode.solution/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/arnav451/leetcode.solution/tree/master/0904-fruit-into-baskets) |
