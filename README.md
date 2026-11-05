@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav451/leetcode.solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/arnav451/leetcode.solution/tree/master/1360-number-of-days-between-two-dates) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/arnav451/leetcode.solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/arnav451/leetcode.solution/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/arnav451/leetcode.solution/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/arnav451/leetcode.solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav451/leetcode.solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/arnav451/leetcode.solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/arnav451/leetcode.solution/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arnav451/leetcode.solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/arnav451/leetcode.solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav451/leetcode.solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/arnav451/leetcode.solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Quicksort
 |  |
 | ------- |
