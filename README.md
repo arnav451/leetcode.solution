@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arnav451/leetcode.solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2409-count-days-spent-together](https://github.com/arnav451/leetcode.solution/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arnav451/leetcode.solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/arnav451/leetcode.solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/arnav451/leetcode.solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/arnav451/leetcode.solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arnav451/leetcode.solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/arnav451/leetcode.solution/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Math
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/arnav451/leetcode.solution/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/arnav451/leetcode.solution/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/arnav451/leetcode.solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/arnav451/leetcode.solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Quicksort
 |  |
 | ------- |
