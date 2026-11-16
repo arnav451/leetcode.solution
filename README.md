@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/arnav451/leetcode.solution/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/arnav451/leetcode.solution/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arnav451/leetcode.solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/arnav451/leetcode.solution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/arnav451/leetcode.solution/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/arnav451/leetcode.solution/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/arnav451/leetcode.solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3206-alternating-groups-i](https://github.com/arnav451/leetcode.solution/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/arnav451/leetcode.solution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Quicksort
 |  |
 | ------- |
