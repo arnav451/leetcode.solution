@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/arnav451/leetcode.solution/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3206-alternating-groups-i](https://github.com/arnav451/leetcode.solution/tree/master/3206-alternating-groups-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/arnav451/leetcode.solution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3875-construct-uniform-parity-array-i](https://github.com/arnav451/leetcode.solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/arnav451/leetcode.solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnav451/leetcode.solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/arnav451/leetcode.solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/arnav451/leetcode.solution/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/arnav451/leetcode.solution/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/arnav451/leetcode.solution/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Quicksort
 |  |
 | ------- |
