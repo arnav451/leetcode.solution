@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/arnav451/leetcode.solution/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/arnav451/leetcode.solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/arnav451/leetcode.solution/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/arnav451/leetcode.solution/tree/master/0412-fizz-buzz) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/arnav451/leetcode.solution/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnav451/leetcode.solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/arnav451/leetcode.solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/arnav451/leetcode.solution/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/arnav451/leetcode.solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/arnav451/leetcode.solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/arnav451/leetcode.solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0992-subarrays-with-k-different-integers](https://github.com/arnav451/leetcode.solution/tree/master/0992-subarrays-with-k-different-integers) |
