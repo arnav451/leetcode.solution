@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/arnav451/leetcode.solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/arnav451/leetcode.solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/arnav451/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/arnav451/leetcode.solution/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/arnav451/leetcode.solution/tree/master/0219-contains-duplicate-ii) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/arnav451/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/arnav451/leetcode.solution/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/arnav451/leetcode.solution/tree/master/0463-island-perimeter) |
 ## Z Algorithm
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arnav451/leetcode.solution/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/arnav451/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/arnav451/leetcode.solution/tree/master/0463-island-perimeter) |
 | [0931-minimum-falling-path-sum](https://github.com/arnav451/leetcode.solution/tree/master/0931-minimum-falling-path-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/arnav451/leetcode.solution/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/arnav451/leetcode.solution/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/arnav451/leetcode.solution/tree/master/0463-island-perimeter) |
 ## Counting Sort
 |  |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/arnav451/leetcode.solution/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/arnav451/leetcode.solution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
