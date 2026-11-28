@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/arnav451/leetcode.solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/arnav451/leetcode.solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/arnav451/leetcode.solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/arnav451/leetcode.solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/arnav451/leetcode.solution/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/arnav451/leetcode.solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/arnav451/leetcode.solution/tree/master/0066-plus-one) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/arnav451/leetcode.solution/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/arnav451/leetcode.solution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/arnav451/leetcode.solution/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/arnav451/leetcode.solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arnav451/leetcode.solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/arnav451/leetcode.solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arnav451/leetcode.solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/arnav451/leetcode.solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/arnav451/leetcode.solution/tree/master/0058-length-of-last-word) |
 | [0097-interleaving-string](https://github.com/arnav451/leetcode.solution/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/arnav451/leetcode.solution/tree/master/0115-distinct-subsequences) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnav451/leetcode.solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arnav451/leetcode.solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/arnav451/leetcode.solution/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/arnav451/leetcode.solution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/arnav451/leetcode.solution/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/arnav451/leetcode.solution/tree/master/0187-repeated-dna-sequences) |
